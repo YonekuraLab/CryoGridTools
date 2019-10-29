@@ -4,7 +4,7 @@
   
 ## Description  
 STL files can be imported directly to 3D printing.  
-BLENDER files are original design files for modification by Blender, free software (https://www.blender.org/).
+All tools were designed by Blender (https://www.blender.org/).
     
 ## Recommendation  
 FDM 3D printer with ABS filaments is suitable for printing of these tools.  
