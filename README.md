@@ -21,7 +21,7 @@ This grid case orientator is fitted inside the outer space around the ethane ves
 3D printed holder that lacks one arm, thereby affording enough room for the orientator.
 
 ### MagneticWand1,2
-A simple pickup wand with a small neodymium magnet (~ 6 mmφ) onto the tip. The stacker is easily released under liquid nitrogen by a wrenching action of the wand. MagneticWand 1 and 2 are connected by glue.
+A simple pickup wand with a small neodymium magnet (~ 6 mmφ) at the tip. The stacker is easily released under liquid nitrogen by a wrenching action of the wand. MagneticWand 1 and 2 are connected by glue.
 
 ### Spacers
 Spacers are placed on top of the stacker for transport. Spacer 1 is for five stackers in 50 mL tube. Spacer 2 ~ 5 are for four to one stackers.
