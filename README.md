@@ -30,7 +30,7 @@ Spacers are placed on top of the stacker for transport. Spacer 1 is for five sta
 Two- four- and six-hole grid cases.
 
 ### RetainerStocker
-A retainer stocker of JEOL microscope. This Retainer stocker accommodates four retainers, and is usually kept inside a desiccator till use.
+A retainer stocker of JEOL microscope. This retainer stocker accommodates four retainers, and is usually kept inside a desiccator till use.
 
 ## Authors
 Tasuku Hamaguchi and Koji Yonekura
