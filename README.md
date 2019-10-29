@@ -31,3 +31,6 @@ Two- four- and six-hole grid cases.
 
 ### RetainerStocker
 A retainer stocker of JEOL microscope. This Retainer stocker accommodates four retainers, and is usually kept inside a desiccator till use.
+
+## Authors
+Tasuku Hamaguchi and Koji Yonekura
