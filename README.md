@@ -1,36 +1,37 @@
 ![Top](Image_for_top.png)
 # CryoGridTools  
-3D printing data in "Tidy up cryo-EM sample grids with 3D printed tools"  
+Designs of cryo-EM tools described in "Tidy up cryo-EM sample grids with 3D printed tools" for 3D printing.
+
+## Description
+STL files can be directly fed to a 3D printer.
+All tools were designed by Blender (https://www.blender.org/).  
   
-## Description  
-STL files can be imported directly to 3D printing.  
-All tools were designed by Blender (https://www.blender.org/).
-    
-## Recommendation  
-FDM 3D printer with ABS filaments is suitable for printing of these tools.  
-Slower head speed, slower cooling rate, and stable emvironment are required for quality printing.  
+## Recommendation
+A FDM 3D printer with ABS filaments is suitable for production of the tools.
+A slower head speed, a correct temperature (~ 100˚C) of the base plate and a controled cooling rate are required for success of 3D printing.
 
 ## Contents
 ### GridCaseStacker
 Storage for disk-shaped grid cases in liquid nitrogen. The grid case stacker holds three grid cases. The five stackers can be kept inside a wide-use centrifuge tube. The steel flat-head metal screw with a diameter of ~ 3.2 mm and a length of ~ 12 mm on the stacker is fitted with a CrystalWand Magnetic.
 
 ### GridCaseOrientator
-This grid case orientator is fitted inside the outer space around the ethane vessel of the ethane container.  The user can drop a grid case with plunge-frozen grids onto the orientator in liquid nitrogen, and the orientator supports the grid case in an upright position.  
+Grid case orientator for easy pick up of the grid case with tweezers. Fitted inside the outer space around the ethane vessel of the ethane container. A grid case with plunge-frozen grids can be dropped onto the orientator in liquid nitrogen, and the orientator supports the grid case in an upright position.
 
 ### GridCaseHolder
-3D printed holder that lacks one arm, thereby affording enough room for the orientator.
+Holder for three disk-shaped grid cases onto its three arms. Fitted inside the outer space of the ethane container. The holder affords enough room for the orientator.
 
-### MagneticWand1,2
-A simple pickup wand with a small neodymium magnet (~ 6 mmφ) at the tip. The stacker is easily released under liquid nitrogen by a wrenching action of the wand. MagneticWand 1 and 2 are connected by glue.
+### MagneticWand1, 2
+Pickup wand for the grid case stacker. MagneticWand 1 and 2 should be connected with glue, and then a small neodymium magnet (~ 6 mmφ) be glued on the tip. The stacker is easily released under liquid nitrogen by a wrenching action of the wand.
 
 ### Spacers
-Spacers are placed on top of the stacker for transport. Spacer 1 is for five stackers in 50 mL tube. Spacer 2 ~ 5 are for four to one stackers.
+Spacers placed on top of the stacker inside a 50 mL conical tube for transport. Spacer 1 is desinged for five stackers in the tube. Spacer 2 ~ 5 are for four to one stackers, respectively.
 
 ### GridCase base and top
-Two- four- and six-hole grid cases.
+Grid cases with two- four- and six-hole slits
 
 ### RetainerStocker
-A retainer stocker of JEOL microscope. This retainer stocker accommodates four retainers, and is usually kept inside a desiccator till use.
+Retainer stocker for JEOL CRYO ARM electron microscopes. The stocker accommodates four retainers, and is usually kept inside a desiccator till use.
 
 ## Authors
 Tasuku Hamaguchi and Koji Yonekura
+
