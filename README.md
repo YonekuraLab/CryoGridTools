@@ -7,7 +7,7 @@ STL files can be directly fed to a 3D printer.
 All tools were designed by Blender (https://www.blender.org/).  
   
 ## Recommendation
-A FDM 3D printer with ABS filaments is suitable for production of the tools.
+An FDM 3D printer with ABS filaments is suitable for production of the tools.
 A slower head speed, a correct temperature (~ 100˚C) of the base plate and a controled cooling rate are required for success of 3D printing.
 
 ## Contents
