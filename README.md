@@ -2,7 +2,7 @@
 # CryoGridTools  
 Designs of cryo-EM tools described in "Tidy up cryo-EM sample grids with 3D printed tools" for 3D printing.
 
-## Description
+## How to 3D print
 STL files can be directly fed to a 3D printer.
 All tools were designed by Blender (https://www.blender.org/).  
   
