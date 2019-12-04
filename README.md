@@ -32,6 +32,9 @@ Grid cases with two- four- and six-hole slits
 ### RetainerStocker
 Retainer stocker for JEOL CRYO ARM electron microscopes. The stocker accommodates four retainers, and is usually kept inside a desiccator till use.
 
+### TubeHanger
+TubeHanger can hang 50 ml tube with string in liquid nitrogen. This allows for smooth loading and unloading of the stackers.
+
 ## Authors
 Tasuku Hamaguchi and Koji Yonekura
 
