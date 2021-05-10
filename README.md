@@ -2,7 +2,7 @@
 # CryoGridTools  
 Designs of cryo-EM tools described in "Tidy up cryo-EM sample grids with 3D printed tools" for 3D printing.
 ## References
-https://doi.org/10.1016/j.jsb.2019.107414
+https://doi.org/10.1016/j.jsb.2019.107414<BR>
 https://doi.org/10.1016/j.jsb.2019.04.011
 
 ## How to 3D print
