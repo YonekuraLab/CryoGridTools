@@ -37,6 +37,8 @@ Retainer stocker for JEOL CRYO ARM electron microscopes. The stocker accommodate
 
 ### TubeHanger
 TubeHanger can hang 50 ml tube with string in liquid nitrogen. This allows for smooth loading and unloading of the stackers.
+  
+### CryoRingKeeper and HowToUse movie
 
 ## Authors
 Tasuku Hamaguchi and Koji Yonekura
